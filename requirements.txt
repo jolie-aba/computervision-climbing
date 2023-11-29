@@ -1,4 +1,8 @@
 numpy
 opencv-python
 mediapipe
-
+gym
+numpy
+tensorflow
+keras
+keras-rl
