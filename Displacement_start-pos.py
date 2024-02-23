@@ -39,8 +39,8 @@ mp_pose = mp.solutions.pose
 pose = mp_pose.Pose()
 
 # Initialize the video file readers
-video_path1 = 'video/Lock off.mov'
-video_path2 = 'video/DeadpointJo.mov'
+video_path1 = '/Users/jolie/CODING/MOVEMENT TRACING/video/Lock off.mov'
+video_path2 = '/Users/jolie/CODING/MOVEMENT TRACING/video/DeadpointJo.mov'
 cap1 = cv.VideoCapture(video_path1)
 cap2 = cv.VideoCapture(video_path2)
 
